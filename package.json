@@ -1,0 +1,19 @@
+{
+  "name": "jest_testing_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "async": "^3.1.1",
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15"
+  }
+}
